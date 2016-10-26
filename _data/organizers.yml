@@ -1,10 +1,9 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Genevariation3d.org", description: "A workshop to discuss interconnection of genetic variation data, protein sequence, and 3D structural information.", link: "http://genevariation3d.org", imageUrl: "snp3d.png"}
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "ISB", description: "Institute for Systems Biology", link: "http://systemsbiology.org", imageUrl: "isb.png"}
+    - {name: "RCSB PDB", description: "RCSB Protein Data Bank", link: "http://www.rcsb.org", imageUrl: "rcsb_logo.png"}
