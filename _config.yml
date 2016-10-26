@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Genevariation 3D"
 email: "andreas@rcsb.org"
 description: "A workshop to discuss interconnection of precision medicine, genetic variation data, protein sequence, and 3D structural information."
-baseurl: "/zeppelin"
+baseurl: ""
 url: "http://genevariation3d.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-85181317-1"
