@@ -184,7 +184,7 @@ footerBlocks:
    - {link: "http://www.rcsb.org", text: "www.rcsb.org"}
    - {link: "https://www.systemsbiology.org/", text: "Institute for Systems Biology"}
    - {link: "http://westbigdatahub.org/", text: "West Big Data Innovation Hub"}
-   
+
  -
   title: "Contacts"
   links:
@@ -255,8 +255,15 @@ enableHackathon: true
 
 # Hackathon About Block
 aboutUseCaseTitle: "Use Cases"
-useCaseRows:
- - {title: "Genomic architecture of inflammatory bowel disease in five families with multiple affected individuals", image: "hackathon-0.png", details: "This Big Data Spokes Project aims to speed our understanding of genetic variants that are suspected of causing disease by instantly showing researchers a 3D model of the chemical effect of each variant. Because determining these effects is currently a laborious process requiring specialized skills, it is often not done in research on genetic variants. Here, we present a study of the genetic causes of inflammatory bowel disease, and show how our resource could have been employed to make the study faster and cheaper. "}
+useCases:
+ - {
+    title: "Genomic architecture of inflammatory bowel disease in five families with multiple affected individuals",
+    image: "IBD_protein_structure.png",
+    details: "This Big Data Spokes Project aims to speed our understanding of genetic variants that are suspected of causing disease by instantly showing researchers a 3D model of the chemical effect of each variant. Because determining these effects is currently a laborious process requiring specialized skills, it is often not done in research on genetic variants. Here, we present a study of the genetic causes of inflammatory bowel disease, and show how our resource could have been employed to make the study faster and cheaper. ",
+    link: "https://docs.google.com/document/d/1NmLOUoMCbGqYZjB98Ta0WzcGRQFbzqy0_Fufy125V0Q/pub",
+    citation: "http://www.nature.com/articles/hgv201560"
+   }
+
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
@@ -294,4 +301,3 @@ members:
  - {title: "Kaviar", link: "http://db.systemsbiology.org/kaviar", image: "KaviarLogo.png", info: "database of human genomic variation"}
  - {title: "PeptideAtlas", link: "http://www.peptideatlas.org", image: "PeptideAtlas_Logo.png", info: "proteomics data compendium"}
  - {title: "Trans-Proteomic Pipeline", link: "http://tools.proteomecenter.org/wiki/index.php?title=Software:TPP", image: "software.png", info: "Trans-Proteomic Pipeline software"}
-
